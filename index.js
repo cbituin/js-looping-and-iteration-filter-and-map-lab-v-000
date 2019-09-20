@@ -5,4 +5,12 @@ const driversWithRevenueOver = () => {
 
 const driverNamesWithRevenueOver = () => {
   
-}
+};
+
+const exactMatch = () => {
+  
+};
+
+const exactMatchToList = () => {
+  
+};
